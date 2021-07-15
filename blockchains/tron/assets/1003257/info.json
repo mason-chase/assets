@@ -1,8 +1,6 @@
 {
     "name": "Vevocoin",
     "website": "https://vevocoin.com/",
-    "source_code": "https://github.com/vevodev",
-    "white_paper": "https://vevocoin.com/whitepaper.pdf",
     "description": "VEVO is an open source platform in which everyone can use the code and token to their needs.",
     "explorer": "https://tronscan.io/#/token/1003257",
     "type": "TRC10",
@@ -11,6 +9,14 @@
     "status": "active",
     "id": "1003257",
     "links": [
+        {
+            "name": "source_code",
+            "url": "https://github.com/vevodev"
+        },
+        {
+            "name": "white_paper",
+            "url": "https://vevocoin.com/whitepaper.pdf"
+        },
         {
             "name": "github",
             "url": "https://github.com/vevodev"
