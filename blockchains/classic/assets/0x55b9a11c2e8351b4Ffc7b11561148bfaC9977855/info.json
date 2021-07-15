@@ -7,6 +7,11 @@
     "website": "https://digix.global",
     "explorer": "https://blockscout.com/etc/mainnet/tokens/0x55b9a11c2e8351b4Ffc7b11561148bfaC9977855",
     "status": "active",
-    "source_code": "https://github.com/DigixGlobal",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/DigixGlobal"
+        }
+    ],
     "id": "0x55b9a11c2e8351b4Ffc7b11561148bfaC9977855"
 }
